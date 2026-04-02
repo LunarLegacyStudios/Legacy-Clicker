@@ -5,10 +5,17 @@ If this application is flagged as malware, it is a **false positive**. The file 
 
 ### Security & Source Code
 If you have safety concerns, you are permitted to decompile the executable to audit the source code yourself. However, please note:
+* **Ownership:** I am the original creator and still the sole owner of Legacy Clicker.
 * **Not Open Source:** This project is proprietary.
 * **Non-Distribution:** You are strictly prohibited from sharing or distributing the decompiled source code with anyone.
-* **Forks:** You may fork the project, but you must provide clear credit to the original author.
+* **Forks:** You may fork the project, but you must provide clear credit to me as the original author.
+
+### Safe Version Update
+Certain features have been removed due to heavy automation risks. Game developers with over 50M views personally warned me that keeping those features would result in a **BAN**. This is a safe version of Legacy Clicker with that heavy automation removed to protect your account.
 
 ### Project Status
 **Legacy Clicker is discontinued.** This repository serves as a migration after the original GitHub account was deleted.
-I am the rightfull owner to legacy clicker still
+
+---
+
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/LunarLegacyStudios/Legacy-Clicker/releases/download/Clicker/Legacy.Clicker.exe)
