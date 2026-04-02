@@ -19,4 +19,4 @@ Certain features have been removed due to heavy automation risks. Game developer
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/LunarLegacyStudios/Legacy-Clicker/releases/download/Clicker/Legacy.Clicker.exe)
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/LunarLegacyStudios/Legacy-Clicker/releases/download/Clicker/Legacy.Clicker.exe) ![Downloads](https://img.shields.io/github/downloads/LunarLegacyStudios/Legacy-Clicker/total?style=for-the-badge&color=green)
