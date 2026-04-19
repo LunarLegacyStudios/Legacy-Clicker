@@ -1,12 +1,8 @@
 # Legacy Clicker
 
-### ⚠️ Discontinued Notice
-
-Legacy Clicker is now **discontinued**. This project will no longer receive updates or support.
-
 ### ⚠️ False Positive Notice
 
-If this application is flagged as malware, it is a **false positive**. The file has been submitted to Microsoft, and they have manually removed the false flags. Because the app is compiled from Python, some antivirus engines may still trigger alerts.
+If this application is flagged as malware, it is a **false positive**. The file has been submitted to Microsoft, and they have manually removed the false flags. Because the app is compiled from Python, some antivirus engines may still trigger alerts, I updated the software so im not sure if microsoft will again detect this file, if it does I will submit it again
 
 ### Security & Source Code
 
