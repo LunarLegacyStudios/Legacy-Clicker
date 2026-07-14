@@ -1,20 +1,22 @@
 # Legacy Clicker
 
-A high-performance, customizable auto-clicker built to bypass standard input restrictions using direct Windows API integration. 
+A fast, clean, and customizable auto-clicker utilizing native Windows API calls for reliable input delivery.
 
 [![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/LunarLegacyStudios/Legacy-Clicker/releases/tag/Clicker1) ![Downloads](https://img.shields.io/github/downloads/LunarLegacyStudios/Legacy-Clicker/total?style=for-the-badge&color=green)
 
--- more details about legacy clicker once next update drops 
+-- More details about Legacy Clicker features will be posted here once the next update drops.
 
 ### Antivirus False Positives
-Because this application is compiled from Python, some antivirus engines may flag the executable as a false positive. 
 
-If your software flags it, this is a known issue common with PyInstaller executables. The source code has previously been manually cleared by Microsoft. If a new update triggers a temporary alert, it will be resubmitted for manual review.
+Since the app is packaged from Python, some antivirus scanners might flag the executable as a false positive. 
 
-### Security, Source Code & Ownership
-* **Audit Friendly:** If you have safety concerns, you are permitted to decompile the executable to audit the source code yourself.
-* **Proprietary Project:** Legacy Clicker is owned and operated solely by MaxBonello/LunarLegacyStudios. It is not open source.
-* **Usage Restrictions:** You are strictly prohibited from sharing or redistributing any recovered or decompiled source code.
-* **Forks:** You may fork this project, but you must provide clear, visible credit directly to MaxBonello/LunarLegacyStudios.
+This is a common issue with PyInstaller builds. Microsoft has manually reviewed and cleared the code in the past. If a new update triggers a false alert, it will be resubmitted to Microsoft immediately for manual verification.
 
-*Disclaimer: Some software or games explicitly ban automated inputs. Using this tool is at your own risk; the creator is not responsible for any account actions or bans.*
+### Security, Code & Ownership
+
+* **Audit Friendly:** If you have safety concerns, you are welcome to decompile the executable to inspect the source code yourself.
+* **Proprietary Project:** Legacy Clicker is closed-source and owned entirely by MaxBonello/LunarLegacyStudios.
+* **No Distribution:** You are strictly prohibited from redistributing the source code or the compiled binaries.
+* **Forks:** You can fork the repository on GitHub for personal use without needing permission. However, you must provide clear and direct credit to MaxBonello/LunarLegacyStudios (representing both names as one single merged entity).
+
+_Disclaimer: Some games and platforms restrict automated inputs. Use this tool at your own risk. The creator is not responsible for any account actions or platform restrictions._
