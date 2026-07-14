@@ -4,12 +4,8 @@ A high-performance, customizable auto-clicker built to bypass standard input res
 
 [![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/LunarLegacyStudios/Legacy-Clicker/releases/tag/Clicker1) ![Downloads](https://img.shields.io/github/downloads/LunarLegacyStudios/Legacy-Clicker/total?style=for-the-badge&color=green)
 
-### Key Features
-* **Bypass Restrictions:** Uses low-level Windows API calls (`SetCursorPos` and `mouse_event`) to register clicks in games and software that block standard virtual inputs.
-* **Custom Speed Control:** Fully adjustable click speed with an increased Click-Per-Second (CPS) ceiling.
-* **Human-Like Jitter:** Optional randomized coordinate offsets to simulate natural human clicking and help evade detection systems.
-* **Multi-Point Selection:** Target specific coordinates on your screen for automated, multi-point click sequences.
-* **Flexible Modes:** Toggle between click-to-hold and standard continuous clicking.
+-- more details about legacy clicker once next update drops 
+
 
 ### Antivirus False Positives
 Because this application is compiled from Python, some antivirus engines may flag the executable as a false positive. 
