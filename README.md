@@ -6,7 +6,6 @@ A high-performance, customizable auto-clicker built to bypass standard input res
 
 -- more details about legacy clicker once next update drops 
 
-
 ### Antivirus False Positives
 Because this application is compiled from Python, some antivirus engines may flag the executable as a false positive. 
 
@@ -14,8 +13,8 @@ If your software flags it, this is a known issue common with PyInstaller executa
 
 ### Security, Source Code & Ownership
 * **Audit Friendly:** If you have safety concerns, you are permitted to decompile the executable to audit the source code yourself.
-* **Proprietary Project:** Legacy Clicker is owned and operated solely by LunarLegacyStudios. It is not open source.
+* **Proprietary Project:** Legacy Clicker is owned and operated solely by MaxBonello/LunarLegacyStudios. It is not open source.
 * **Usage Restrictions:** You are strictly prohibited from sharing or redistributing any recovered or decompiled source code.
-* **Forks:** You may fork this project, but you must provide clear, visible credit to LunarLegacyStudios.
+* **Forks:** You may fork this project, but you must provide clear, visible credit directly to MaxBonello/LunarLegacyStudios.
 
 *Disclaimer: Some software or games explicitly ban automated inputs. Using this tool is at your own risk; the creator is not responsible for any account actions or bans.*
