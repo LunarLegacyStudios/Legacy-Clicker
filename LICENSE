@@ -1,31 +1,49 @@
-License Agreement for Legacy Clicker
+License Agreement for Legacy Clicker (v2)
 
-Copyright (c) 2026 MaxBonello/LunarLegacyStudios. All rights reserved.
+Copyright (c) 2026 Max Bonello (LunarLegacyStudios). All rights reserved.
 
-1. Binding Agreement and Consent
-By downloading, installing, accessing, or using the Software ("Legacy Clicker"), you unconditionally agree to be bound by all terms of this License Agreement. This agreement applies in full force regardless of how you obtained or accessed the Software, and regardless of whether you were aware of this license or read its terms. Lack of awareness does not exempt you from compliance.
+1. Acceptance
+By clicking "I Agree," creating an account, or running the Software, you agree to this License. If you do not agree, do not download, install, or use the Software or its source code.
 
-2. Ownership and Identity
-The Software ("Legacy Clicker") is owned and operated solely by MaxBonello/LunarLegacyStudios, operating under the GitHub organization located at github.com/LunarLegacyStudios (collectively referred to as "the Owner"). No other entity, individual, or group operating under the name "MaxBonello/LunarLegacyStudios" or any variation thereof has any rights to this Software. This is a proprietary project and is not open source. All rights, title, and interest in the Software, including all past, discontinued, reworked, and revived versions, remain solely and exclusively bound to MaxBonello/LunarLegacyStudios and the Owner.
+2. Ownership
+Legacy Clicker and its entire codebase are owned solely by Max Bonello. The Software may be hosted or showcased under the organization name "LunarLegacyStudios," but that name conveys no ownership or licensing rights to whoever controls it. If control of the LunarLegacyStudios name or accounts changes hands, this License and all rights under it remain with Max Bonello personally, not with the new controller of that name. Any licensing claim made by someone impersonating Max Bonello, or by anyone relying solely on control of the LunarLegacyStudios name, is void.
 
-Impersonating the Owner, MaxBonello/LunarLegacyStudios, or any associated administrator to falsely claim, transfer, alter, or exploit licensing rights is strictly prohibited. Any licensing permissions, transfers, or rights claimed or obtained through impersonation, identity theft, or social engineering are completely fraudulent and void.
+3. Permitted Use
+You may download and run the compiled Software for personal, non-commercial use.
 
-3. Usage and Distribution
-* Individual Use: You are granted a non-exclusive license to download and use the Software for personal use.
-* Non-Distribution: You are strictly prohibited from redistributing the Software, its source code, or its compiled binaries on any other platform, website, or service without explicit written permission from the Owner.
-* Decompilation: You may decompile the Software solely for the purpose of a security audit. However, you are strictly prohibited from sharing, publishing, or distributing any recovered source code with third parties.
+4. Restrictions
+Without Max Bonello's prior written permission (see Section 8), you may not:
+a) redistribute, mirror, sell, or re-upload the Software, its source, or binaries;
+b) extract or reuse any code, assets, or modules in other projects;
+c) decompile, reverse-engineer, or disassemble the Software, including for testing, research, or security review.
 
-4. Modifications and Attribution
-* Forks: You do not need prior permission to fork this repository on GitHub solely for personal modification or contribution. However, this permission can be revoked by the Owner at any time. If your permission to fork is revoked, you must immediately delete your fork. Failure to remove the fork after revocation can and will result in action being taken against your repository or account. Forking does not grant you the right to redistribute the software, its source code, or its compiled binaries outside of GitHub.
-* Credits: Any derivative works, forks, or projects inspired by this software must provide clear, visible, and direct credit to the Owner (MaxBonello/LunarLegacyStudios) with a link back to github.com/LunarLegacyStudios.
+5. Forks
+Forking is allowed only under all of the following conditions:
+a) Clear credit to Max Bonello and Legacy Clicker in the fork's listing, README, and in-app credits.
+b) A permanent, visible watermark in the UI, not reducible, hidden, obscured, or styled to be unreadable, containing a working link to the canonical repository URL on file with this License (see Section 8 for how the current canonical URL is confirmed — it is not automatically github.com/LunarLegacyStudios if that org's control changes).
+c) Forking does not override Section 4 — a fork may not be sold, mirrored elsewhere, or used to redistribute code outside the fork itself.
+Failure to meet (a) or (b) revokes your fork's license immediately and entitles Max Bonello to request takedown.
 
-5. License Modifications and Unauthorized Copies
-* License Updates: The Owner reserves the right to modify, update, or change this License Agreement and terms of service at any time without prior notice. These terms can, might, and WILL be updated in the future. Regardless of whether you agree to the new changes or not, your continued use of the Software means you automatically agree to the updated terms.
-* Fraudulent Licenses: Any stolen, modified, or unauthorized copies of the Software distributed under a different, altered, or fraudulent license are completely illegitimate. Those false licenses are void and hold no weight under any circumstances.
-* User Liability: If you download a fake, unauthorized, or compromised version of the Software, you assume sole and absolute responsibility for doing so and for any resulting consequences (such as malware, security risks, or account bans). No terms or claims written inside a fake version's license will transfer liability to the Owner.
+6. Termination
+Any violation of Section 4 terminates your license to the Software immediately upon notice from Max Bonello, requiring you to delete all copies in your possession. Violation of Section 5 terminates only the fork's license, per Section 5.
 
-6. Safety and Account Protection
-This version of the Software has been modified to remove heavy automation features to prevent user account bans. The Owner is not responsible for any actions taken by third-party game moderators or developers against your accounts.
+7. License Changes
+Max Bonello may update this License. Changes apply to new downloads/installs from the date posted. Continued use of a version you already installed under prior terms is governed by the terms in effect when you obtained it, unless you update to a newer release, at which point the version bundled with that release applies.
 
-7. Disclaimer of Warranty
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE OWNER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+8. Contact and Permission Requests
+Requests for permission under Sections 4 or 5, and confirmation of the current canonical repository URL, must go through the contact method listed in the official repository at the time of your request. Permission is only valid if given in writing (including email or written statement in the repository) by Max Bonello.
+
+9. Fraudulent Copies
+Copies distributed under an altered or fake license are void and unauthorized. Anyone who obtains such a copy assumes full responsibility for any resulting harm (malware, account bans, etc.); no fake license terms shift liability to Max Bonello.
+
+10. Account Safety
+This version removes heavy automation to reduce ban risk. LunarLegacyStudios is not responsible for actions taken against your accounts by third-party platforms or moderators.
+
+11. Warranty Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND. MAX BONELLO IS NOT LIABLE FOR ANY DAMAGES ARISING FROM USE OF THE SOFTWARE.
+
+12. Governing Law
+This License is governed by the laws of the jurisdiction in which the copyright holder resides, without regard to conflict-of-law rules.
+
+13. Severability
+If any provision of this License is found unenforceable, the remaining provisions stay in effect.
