@@ -11,5 +11,3 @@ A fast, clean, and customizable auto-clicker
 Since the app is packaged from Python, some antivirus scanners might flag the executable as a false positive. 
 
 This is a common issue with PyInstaller builds. Microsoft has manually reviewed and cleared the code in the past. If a new update triggers a false alert, it will be resubmitted to Microsoft immediately for manual verification.
-
-_Disclaimer: Some games and platforms restrict automated inputs. Use this tool at your own risk. The creator is not responsible for any account actions or platform restrictions._
