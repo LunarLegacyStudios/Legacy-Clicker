@@ -20,15 +20,15 @@ c) decompile, reverse-engineer, or disassemble the Software, including for testi
 5. Forks
 Forking is allowed only under all of the following conditions:
 a) Clear credit to Max Bonello and Legacy Clicker in the fork's listing, README, and in-app credits.
-b) A permanent, visible watermark in the UI, not reducible, hidden, obscured, or styled to be unreadable, containing a working link to the canonical repository URL on file with this License (see Section 8 for how the current canonical URL is confirmed — it is not automatically github.com/LunarLegacyStudios if that org's control changes).
-c) Forking does not override Section 4 — a fork may not be sold, mirrored elsewhere, or used to redistribute code outside the fork itself.
+b) A permanent, visible watermark in the UI, not reducible, hidden, obscured, or styled to be unreadable, containing a working link to the canonical repository URL on file with this License (see Section 8 for how the current canonical URL is confirmed it is not automatically github.com/LunarLegacyStudios if that org's control changes).
+c) Forking does not override Section 4 a fork may not be sold, mirrored elsewhere, or used to redistribute code outside the fork itself.
 Failure to meet (a) or (b) revokes your fork's license immediately and entitles Max Bonello to request takedown.
 
 6. Termination
 Any violation of Section 4 terminates your license to the Software immediately upon notice from Max Bonello, requiring you to delete all copies in your possession. Violation of Section 5 terminates only the fork's license, per Section 5.
 
 7. License Changes
-Max Bonello may update this License. Changes apply to new downloads/installs from the date posted. Continued use of a version you already installed under prior terms is governed by the terms in effect when you obtained it, unless you update to a newer release, at which point the version bundled with that release applies.
+Max Bonello may update this License at any time. Once posted, the updated License applies to all copies of the Software including versions already downloaded or installed regardless of which version's terms were in effect at the time you obtained them. There is no "locked-in" version of this License; your continued possession or use of the Software at any point constitutes agreement to the current License then in effect, even if it differs from the terms you originally agreed to.
 
 8. Contact and Permission Requests
 Requests for permission under Sections 4 or 5, and confirmation of the current canonical repository URL, must go through the contact method listed in the official repository at the time of your request. Permission is only valid if given in writing (including email or written statement in the repository) by Max Bonello.
