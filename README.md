@@ -12,4 +12,4 @@ Fast, clean, customizable auto-clicker.
 More features listed here after next update XD
 
 ### Antivirus false positives
-PyInstaller builds sometimes get flagged. Microsoft has manually cleared this code before — if a new update triggers a flag, it gets resubmitted right away.
+PyInstaller builds sometimes get flagged. Microsoft has manually cleared this code before if a new update triggers a flag, it gets resubmitted right away.
