@@ -1,13 +1,15 @@
-# Legacy Clicker
+<div align="center">
 
-A fast, clean, and customizable auto-clicker
+<img width="619" height="124" alt="Legacy Clicker" src="https://github.com/user-attachments/assets/caf669b2-12f8-4d10-b202-a69be8ed9a1e" />
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/LunarLegacyStudios/Legacy-Clicker/releases/tag/Clicker1) ![Downloads](https://img.shields.io/github/downloads/LunarLegacyStudios/Legacy-Clicker/total?style=for-the-badge&color=green)
+[![Download](https://img.shields.io/badge/Download-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LunarLegacyStudios/Legacy-Clicker/releases/download/alpha_0.1/Legacy.Clicker.exe)
+![Downloads](https://img.shields.io/github/downloads/LunarLegacyStudios/Legacy-Clicker/total?style=for-the-badge&color=000000&labelColor=000000)
+[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white)](#)
 
--- More details about Legacy Clicker features will be posted here once the next update drops.
+</div>
 
-### Antivirus False Positives
+Fast, clean, customizable auto-clicker.
+More features listed here after next update XD
 
-Since the app is packaged from Python, some antivirus scanners might flag the executable as a false positive. 
-
-This is a common issue with PyInstaller builds. Microsoft has manually reviewed and cleared the code in the past. If a new update triggers a false alert, it will be resubmitted to Microsoft immediately for manual verification.
+### Antivirus false positives
+PyInstaller builds sometimes get flagged. Microsoft has manually cleared this code before — if a new update triggers a flag, it gets resubmitted right away.
