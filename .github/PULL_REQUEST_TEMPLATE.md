@@ -4,7 +4,7 @@ Describe what this pull request changes and why.
 
 ## Changes
 
-- 
+- Describe each meaningful change.
 
 ## Testing
 
